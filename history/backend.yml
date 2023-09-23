@@ -1,7 +1,7 @@
 url: https://jixlrpxlttgacozsxqcn.supabase.co/functions/v1/status
-status: down
-code: 502
-responseTime: 152
-lastUpdated: 2023-09-23T04:00:09.805Z
+status: up
+code: 200
+responseTime: 236
+lastUpdated: 2023-09-23T04:16:27.749Z
 startTime: 2023-09-20T19:34:08.709Z
 generator: Upptime <https://github.com/upptime/upptime>
