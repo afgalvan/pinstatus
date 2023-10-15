@@ -4,18 +4,20 @@
     "url": "https://sabores-del-valle.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/sabores-del-valle.vercel.app.ico",
     "slug": "ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 191,
-    "timeWeek": 139,
+    "timeDay": 146,
+    "timeWeek": 134,
     "timeMonth": 117,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-15": 0
+    }
   },
   {
     "name": "Backend",
