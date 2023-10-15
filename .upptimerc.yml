@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /pinstatus
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://pinapp.vercel.app/favicon.svg
   name: Pinapp Status Page
   introTitle: "**Pinapp** is college project for managing processes on a local fabric."
   introMessage: Status Page for the pinapp web application
